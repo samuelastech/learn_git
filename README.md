@@ -1,1 +1,1 @@
-Repository only to learn and practice Git
+Repository only to learn and practice Git principles
